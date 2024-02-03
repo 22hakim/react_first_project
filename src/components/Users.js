@@ -8,4 +8,9 @@ const Users = (props) => {
   )
 }
 
+Users.defaultProps = 
+{
+  name : "max"
+}
+
 export default Users
