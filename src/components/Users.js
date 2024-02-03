@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Users = (props) => {
+const Users = ({name}) => {
   return (
     <div>
-      <div className="user">Name : {props.name}</div>
+      <div className="user">Name : {name}</div>
     </div>
   )
 }
