@@ -1,0 +1,12 @@
+.square-style{
+    height: 40px;
+    width: 40px;
+}
+
+.bcg-blue {
+    background-color: cadetblue;
+}
+
+.bcg-green{
+    background-color: chartreuse;
+}
